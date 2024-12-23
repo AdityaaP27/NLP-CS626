@@ -1,11 +1,11 @@
 # CS 626 Assignment: NLP Techniques Implementation
 
-This repository contains three implementations related to Natural Language Processing (NLP), focusing on Named Entity Recognition (NER) and Part-of-Speech (POS) tagging. Each assignment explores a different model or method.
+This repository contains implementations of classical Natural Language Processing (NLP) techniques for Part-of-Speech (POS) tagging and Named Entity Recognition (NER).
 
 ## Contents
 
 ### 1. POS Tagging using HMM
-- **File**: `POS Tagging (HMM Based).ipynb`
+- **File**: [`POS Tagging (HMM Based).ipynb.ipynb`] (POS Tagging (HMM Based))
 - **Description**: Uses a Hidden Markov Model (HMM) to perform POS tagging, leveraging probabilistic modeling.
 - **Highlights**:
   - Probabilistic sequence modeling.
