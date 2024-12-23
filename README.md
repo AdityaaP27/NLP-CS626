@@ -37,5 +37,5 @@ This repository contains three implementations related to Natural Language Proce
 - Required Python libraries: scikit-learn, CRF++/pyCRFsuite, NumPy, pandas, etc. (Install dependencies using `pip install -r requirements.txt` if provided).
 
 ## Acknowledgements
-These assignments were completed as part of the CS 626 coursework to gain hands-on experience with classical NLP methods and models.
+"""These assignments were completed as part of the CS 626 coursework to gain hands-on experience with classical NLP methods and models.
 """
