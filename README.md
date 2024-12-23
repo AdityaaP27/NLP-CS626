@@ -5,7 +5,7 @@ This repository contains implementations of classical Natural Language Processin
 ## Contents
 
 ### 1. POS Tagging using HMM
-- **File**: [`POS Tagging (HMM Based).ipynb.ipynb`] (POS Tagging (HMM Based))
+- **File**: `POS Tagging (HMM Based).ipynb`
 - **Description**: Uses a Hidden Markov Model (HMM) to perform POS tagging, leveraging probabilistic modeling.
 - **Highlights**:
   - Probabilistic sequence modeling.
