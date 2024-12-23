@@ -1,4 +1,4 @@
-# CS 626 Assignment: NLP Techniques Implementation
+ <h1 align="center"> NLP Techniques Implementation : CS 626 </h1>
 
 This repository contains implementations of classical Natural Language Processing (NLP) techniques for Part-of-Speech (POS) tagging and Named Entity Recognition (NER).
 
